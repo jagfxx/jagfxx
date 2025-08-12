@@ -1,9 +1,7 @@
 <!-- Encabezado con animación -->
 <h1 align="center">👋 Hey, soy Julián — <a href="https://github.com/jagfxx">jagfxx</a> 🚀</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full-stack+%7C+Cybersecurity+Enthusiast;🚀+CTF+Player+y+Pentesting+Lover;⚡+Siempre+aprendiendo+algo+nuevo;🎯+Build+%2B+Break+%2B+Repeat" alt="Typing SVG" />
-</p>
+
 
 ---
 
