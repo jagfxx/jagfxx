@@ -1,5 +1,5 @@
 <!-- Encabezado con animación -->
-<h1 align="center">👋 Hey, soy Julián — aka <a href="https://github.com/jagfxx">jagfxx</a> 🚀</h1>
+<h1 align="center">👋 Hey, soy Julián — <a href="https://github.com/jagfxx">jagfxx</a> 🚀</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00F7F7&center=true&vCenter=true&width=500&lines=💻+Full-stack+%7C+Cybersecurity+Enthusiast;🚀+CTF+Player+y+Pentesting+Lover;⚡+Siempre+aprendiendo+algo+nuevo;🎯+Build+%2B+Break+%2B+Repeat" alt="Typing SVG" />
@@ -19,8 +19,6 @@
 ## 🏆 Logros & Proyectos Destacados
 - 🥇 **Cyber CTF Toolkit** – Scripts y herramientas para retos de seguridad
 - 🎯 **Event Match** – Plataforma para conectar personas a través de eventos
-- 📜 **Two to Tango MVP** – Implementación MVP enfocada en colaboración
-
 ---
 
 ## ⚡ Tech Radar
